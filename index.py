@@ -1,6 +1,4 @@
 """
-Assignment 2 Group 12
-
 Radhika Zawar s3734939
 Parvi Verma s3744398
 """
@@ -23,7 +21,7 @@ host = "titan.csit.rmit.edu.au"             # server id where file is located
 port = 22                                   # using port 22
 username = "s3734939"                       # my student id to access data
 keyfile_path = None                         # not needed
-password = "R@dz0411484188"                 # password to access file from server
+password = "******"                 # password to access file from server
 
 INT_SIZE = 32                               # -bits in an integer when saving the inverted lists
 
